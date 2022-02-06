@@ -1,0 +1,11 @@
+name: sHolograms
+version: 1.0
+main: sours.holograms.sHolograms
+author: Sours
+softdepend: [HolographicDisplays]
+
+commands:
+    test:
+    holograms:
+      aliases: [holo, hd, hologram]
+      usage: /<command>      
